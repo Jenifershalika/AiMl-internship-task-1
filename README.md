@@ -1,4 +1,4 @@
-# AiMl-internship-task-1
+# AiMl-internship
 # Titanic Dataset Preprocessing Project 🚢
 
 This project demonstrates how to clean and prepare a real-world dataset (Titanic dataset) for machine learning and analysis. It includes key data preprocessing steps using Python and pandas in Jupyter Notebook.
